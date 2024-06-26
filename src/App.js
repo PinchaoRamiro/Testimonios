@@ -49,7 +49,7 @@ function App() {
   return (
     <div className="App">
       <div className='contenedor-principal'>
-        <h1>Iformacion de personas al azar</h1>
+        <h1>Informacion de personas al azar</h1>
         <Testimonio
           nombre={testimonioActual.nombre}
           pais={testimonioActual.pais}
