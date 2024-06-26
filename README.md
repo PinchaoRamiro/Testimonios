@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-
+Este es un pequeño proyecto con una cierta interctividad al dar click en un boton, para cambiar de pagina,
+es basado en la aplicacion de testimonios de FreeCodeCamp
+este es el enlace de demostracion: https://youtu.be/SsKEn__fKEY 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
