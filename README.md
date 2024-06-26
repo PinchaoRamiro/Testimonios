@@ -1,5 +1,12 @@
 # Getting Started with Create React App
-
+Este es un pequeño proyecto con una cierta interctividad al dar click en un boton, para cambiar de pagina,
+es basado en la aplicacion de testimonios de FreeCodeCamp
+este es el enlace de demostracion: https://youtu.be/SsKEn__fKEY 
+pueden clonar el repositorio en el botton verde de arriva, y con Node.js se deben ejcutar los comandos de 
+npx create-react-app <name-app> 
+luego pasar el archivo de node_modules a la carpeta raiz del proyecto y ejecutar 
+npm start
+para ver en la pantalla del navegador la app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
